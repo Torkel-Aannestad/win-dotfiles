@@ -1,0 +1,14 @@
+[2m2025-03-05T18:58:55.315141Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m workspaces[1].bind_to_monitor: invalid type: floating point `0.5`, expected u32 at line 132 column 22
+[2m2025-03-05T18:58:58.857235Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m workspaces[1].bind_to_monitor: invalid type: floating point `0.5`, expected u32 at line 132 column 22
+[2m2025-03-05T18:59:02.569384Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m workspaces[1].bind_to_monitor: invalid type: floating point `0.5`, expected u32 at line 132 column 22
+[2m2025-03-05T19:24:53.707103Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-05T19:24:58.843571Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-05T20:02:12.827583Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 260 column 3, while scanning a simple key at line 259 column 1
+[2m2025-03-05T20:02:19.684802Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 260 column 3, while scanning a simple key at line 259 column 1
+[2m2025-03-05T20:02:29.279680Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 260 column 3, while scanning a simple key at line 259 column 1
+[2m2025-03-11T17:52:55.272433Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-11T17:58:50.320576Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-11T17:58:50.976515Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-16T08:13:37.265842Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-03-16T08:14:14.059317Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-03-16T08:14:22.962859Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
